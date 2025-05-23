@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Dailees</string>
+    <string name="title_activity_main">Dailees</string>
+    <string name="package_name">com.zellense.dailees</string>
+    <string name="custom_url_scheme">com.zellense.dailees</string>
+</resources>

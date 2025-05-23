@@ -5,7 +5,9 @@ const config = {
 	preprocess: vitePreprocess(),
 	kit: {
 		adapter: adapter({
-			fallback: 'index.html' // Required for routing to work in Capacitor
+			pages: 'build',
+			assets: 'build',
+			fallback: 'index.html'
 		})
 	}
 };
